@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gXZorf/GFWh4F8MO2CjjCmLdWb7KcO+wtNX+O8oTWUFgZQ5EKN5DM85sG8UOOpKFW3jgMVQPEl0+e2lEkMGFZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ego\\repos\\FactoryPatternExample\\FactoryPatternExample\\FactoryPatternExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ego\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
